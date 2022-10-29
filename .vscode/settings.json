@@ -1,0 +1,20 @@
+{
+    "python.languageServer": "Pylance",
+    "python.linting.pylintEnabled": false,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none"
+    },
+    "python.analysis.extraPaths": [
+        "/Users/oleg_lytvynenko/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.17-darwin-x64/boards/0x239A/0x80F4",
+        "/Users/oleg_lytvynenko/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.17-darwin-x64/stubs",
+        "/Users/oleg_lytvynenko/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20220904/adafruit-circuitpython-bundle-py-20220904/lib",
+        "apps"
+    ],
+    "circuitpython.board.version": null,
+    "circuitpython.board.vid": "0x239A",
+    "circuitpython.board.pid": "0x80F4",
+    "python.autoComplete.extraPaths": [
+        "lib",
+        "apps"
+    ],
+}
